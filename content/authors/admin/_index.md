@@ -40,7 +40,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: B.S. in Computer Science
+  - area: BS in Computer Science
     institution: The University of Illinois Urbana-Champaign
     date_start: [Excepted] Aug.2023 - May.2025
     Courses included: |
